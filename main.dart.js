@@ -103702,7 +103702,7 @@ case 7:$.i8().PI(g,!0)
 s=8
 return A.l(A.jz(n),$async$ng)
 case 8:A.a9q()
-m=A.b6y(A.e3("web/assets/"+b,0,null).FF()).a
+m=A.b6y(A.e3("assets/"+b,0,null).FF()).a
 A.i7("path ::: -->> "+m)
 m=A.bd4(m,!1)
 a.vj(A.aS9(m,null,null),null,!0)
