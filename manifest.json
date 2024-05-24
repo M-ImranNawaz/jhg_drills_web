@@ -1,6 +1,6 @@
 {
-    "name": "rhythm_master",
-    "short_name": "rhythm_master",
+    "name": "flutter_jhg_drills",
+    "short_name": "flutter_jhg_drills",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
